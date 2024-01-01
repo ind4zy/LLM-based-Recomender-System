@@ -1,0 +1,17 @@
+openai
+torch
+numpy
+pandas 
+tensorflow
+keras
+python-dotenv
+transformers
+pyyaml
+pytest
+geopy
+Nominatim
+tenacity
+jinja2
+gradio==3.36.1
+tqdm
+faiss-cpu==1.7.4
